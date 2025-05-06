@@ -1,5 +1,7 @@
-torch==2.2.2
-transformers==4.38.2
-streamlit==1.33.0
+streamlit
+torch
+transformers
+huggingface-hub
+
 
 
