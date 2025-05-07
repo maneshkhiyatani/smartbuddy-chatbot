@@ -1,7 +1,8 @@
-streamlit
-torch
+gradio
 transformers
-huggingface-hub
+torch
+httpx==0.13.3  # Compatible version
+
 
 
 
