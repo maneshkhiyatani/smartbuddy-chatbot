@@ -2,8 +2,7 @@ streamlit
 torch
 transformers
 huggingface-hub
-transformers
-torch
+
 
 
 
